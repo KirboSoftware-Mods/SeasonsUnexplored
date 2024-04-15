@@ -8,7 +8,9 @@
     "KirboSoftware", "Sleepy"
   ],
   "contact": {
-    "repo": "https://github.com/KirboSoftware-Mods/SeasonsUnexplored"
+    "issues": "https://github.com/KirboSoftware-Mods/SeasonsUnexplored/issues",
+    "sources": "https://github.com/KirboSoftware-Mods/SeasonsUnexplored",
+    "homepage": "https://modrinth.com/mod/SeasonsUnexplored"
   },
   "license": "MIT",
   "icon": "assets/seasons_unexplored/icon.png",
@@ -24,6 +26,8 @@
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric-api": "*",
-    "minecraft": "${minecraft_version}"
+    "minecraft": "${minecraft_version}",
+    "regions_unexplored": ">=0.5.5+1.20.1",
+    "seasons": ">=2.3+1.20"
   }
 }
