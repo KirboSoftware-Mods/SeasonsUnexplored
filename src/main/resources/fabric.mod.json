@@ -11,7 +11,7 @@
     "repo": "https://github.com/KirboSoftware-Mods/SeasonsUnexplored"
   },
   "license": "MIT",
-  "icon": "assets/seasonsundiscovered/icon.png",
+  "icon": "assets/seasons_unexplored/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
