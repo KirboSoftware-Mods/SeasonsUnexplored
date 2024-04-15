@@ -1,0 +1,14 @@
+{
+    "parent": "regions_unexplored:block/apple_oak_leaves_stage2_base",
+    "textures": {
+      "summer": {
+        "all": "regions_unexplored:block/summer_apple_oak_leaves_stage_2"
+      },
+      "fall": {
+        "all": "regions_unexplored:block/fall_apple_oak_leaves_stage_2"
+      },
+      "winter": {
+        "all": "regions_unexplored:block/winter_apple_oak_leaves_stage_2"
+      }
+    }
+  }

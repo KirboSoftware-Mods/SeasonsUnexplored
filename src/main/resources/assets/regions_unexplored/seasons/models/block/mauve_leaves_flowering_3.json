@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "regions_unexplored:block/summer_mauve_leaves_flowering_3"
+    },
+    "fall": {
+      "all": "regions_unexplored:block/fall_mauve_leaves_flowering_3"
+    },
+    "winter": {
+      "all": "regions_unexplored:block/winter_mauve_leaves_flowering_3"
+    }
+  }
+}

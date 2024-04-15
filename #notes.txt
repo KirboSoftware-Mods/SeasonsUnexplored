@@ -1,0 +1,44 @@
+
+    plants might need to be adjusted depending on how differently you envision each biomes seasonal fluctuation
+
+| Plant					    | base sappling                 | Comment
+
+Alpha_sapling			    minecraft:oak_sapling           
+apple_oak_sapling		    minecraft:oak_sapling
+Ashen_sapling			    default                         Unsure, left as default
+Bamboos_sapling             minecraft:spruce_sapling        Bamboo's are evergreens (technically a grass, not a tree) Copied minecraft:spruce_sapling
+baobab _sapling             minecraft:acacia_sapling        baobab's are found in warmer climates
+blackwood_sapling           minecraft:spruce_sapling        Biome looks simular to vanilla taiga biomes.
+blue_magnolia_sapling       minecraft:acacia_sapling        Magnolia trees can be evergreen or deciduous depending on region.
+brimwood_sapling            minecraft:spruce_sapling        Assuming it stays hot as hell in minecraft hell
+cobalt_sapling              minecraft:spruce_sapling        hell is hot
+cypress_sapling             minecraft:spruce_sapling        Cypress trees are evergreens
+dead_pine_sapling           default                         Unsure, left as default
+enchanted_birch_sapling     birch_sapling
+eucalyptus_sapling          minecraft:spruce_sapling        eucalyptus tend to be resistant to the cold
+flowering_sapling           minecraft:oak_sapling
+golden_larch_sapling        minecraft:spruce_sapling
+joshua_sapling              minecraft:acacia_sapling
+kapok_sapling               jungle_sapling
+larch_sapling               minecraft:spruce_sapling
+magnolia_sapling            minecraft:acacia_sapling        Magnolia trees can be evergreen or deciduous depending on region.
+maple_sapling               minecraft:oak_sapling           maples are deciduous
+mauve_sapling               minecraft:oak_sapling           Dont know what this is. looks like an oak tree i guess
+orange_maple_sapling        minecraft:oak_sapling           maples are deciduous
+palm_sapling                minecraft:acacia_sapling
+pine_sapling                minecraft:spruce_sapling
+pink_magnolia_sapling       minecraft:acacia_sapling        Magnolia trees can be evergreen or deciduous depending on the region.
+red_maple_sapling           minecraft:oak_sapling           maples are deciduous
+redwood_sapling             minecraft:oak_sapling           unsure
+silver_birch_sapling        birch_sapling
+small_oak_sapling           minecraft:oak_sapling
+socotra_sapling             minecraft:acacia_sapling
+white_magnolia_sapling      minecraft:acacia_sapling        Magnolia trees can be evergreen or deciduous depending on the region.
+willow_sapling              minecraft:spruce_sapling        Willows are evergreens
+
+
+
+blue_bioshroom              minecraft:spruce_sapling        grows all year round, caves stay relatively consistent year-round
+green_bioshroom             minecraft:spruce_sapling        grows all year round, caves stay relatively consistent year-round
+pink_bioshroom              minecraft:spruce_sapling        grows all year round, caves stay relatively consistent year-round
+yellow_bioshroom            minecraft:spruce_sapling        grows all year round, caves stay relatively consistent year-round

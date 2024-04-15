@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "regions_unexplored:block/summer_blue_magnolia_leaves"
+    },
+    "fall": {
+      "all": "regions_unexplored:block/fall_blue_magnolia_leaves"
+    },
+    "winter": {
+      "all": "regions_unexplored:block/winter_blue_magnolia_leaves"
+    }
+  }
+}

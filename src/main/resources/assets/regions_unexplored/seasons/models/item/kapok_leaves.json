@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "regions_unexplored:block/summer_kapok_leaves"
+    },
+    "fall": {
+      "all": "regions_unexplored:block/fall_kapok_leaves"
+    },
+    "winter": {
+      "all": "regions_unexplored:block/winter_kapok_leaves"
+    }
+  }
+}

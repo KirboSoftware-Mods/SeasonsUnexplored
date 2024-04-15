@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "regions_unexplored:block/summer_brimwood_leaves"
+    },
+    "fall": {
+      "all": "regions_unexplored:block/fall_brimwood_leaves"
+    },
+    "winter": {
+      "all": "regions_unexplored:block/winter_brimwood_leaves"
+    }
+  }
+}

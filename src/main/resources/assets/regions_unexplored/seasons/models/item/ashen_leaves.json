@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "regions_unexplored:block/summer_ashen_leaves"
+    },
+    "fall": {
+      "all": "regions_unexplored:block/fall_ashen_leaves"
+    },
+    "winter": {
+      "all": "regions_unexplored:block/winter_ashen_leaves"
+    }
+  }
+}

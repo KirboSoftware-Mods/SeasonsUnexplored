@@ -1,0 +1,28 @@
+{
+  "textures": {
+    "summer": {
+      "north": "regions_unexplored:block/summer_palm_leaves_side",
+      "south": "regions_unexplored:block/summer_palm_leaves_side",
+      "east": "regions_unexplored:block/summer_palm_leaves_side",
+      "west": "regions_unexplored:block/summer_palm_leaves_side",
+      "up": "regions_unexplored:block/summer_palm_leaves_top",
+      "down": "regions_unexplored:block/summer_palm_leaves_top"
+    },
+    "fall": {
+      "north": "regions_unexplored:block/fall_palm_leaves_side",
+      "south": "regions_unexplored:block/fall_palm_leaves_side",
+      "east": "regions_unexplored:block/fall_palm_leaves_side",
+      "west": "regions_unexplored:block/fall_palm_leaves_side",
+      "up": "regions_unexplored:block/fall_palm_leaves_top",
+      "down": "regions_unexplored:block/fall_palm_leaves_top"
+    },
+    "winter": {
+      "north": "regions_unexplored:block/winter_palm_leaves_side",
+      "south": "regions_unexplored:block/winter_palm_leaves_side",
+      "east": "regions_unexplored:block/winter_palm_leaves_side",
+      "west": "regions_unexplored:block/winter_palm_leaves_side",
+      "up": "regions_unexplored:block/winter_palm_leaves_top",
+      "down": "regions_unexplored:block/winter_palm_leaves_top"
+    }
+  }
+}

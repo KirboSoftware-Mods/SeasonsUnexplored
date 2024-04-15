@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "regions_unexplored:block/summer_baobab_leaves"
+    },
+    "fall": {
+      "all": "regions_unexplored:block/fall_baobab_leaves"
+    },
+    "winter": {
+      "all": "regions_unexplored:block/winter_baobab_leaves"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "textures": {
+    "summer": {
+      "all": "regions_unexplored:block/summer_larch_leaves"
+    },
+    "fall": {
+      "all": "regions_unexplored:block/fall_larch_leaves"
+    },
+    "winter": {
+      "all": "regions_unexplored:block/winter_larch_leaves"
+    }
+  }
+}

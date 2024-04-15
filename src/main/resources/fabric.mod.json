@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "seasons_unexplored",
+  "version": "${version}",
+  "name": "Seasons Unexplored",
+  "description": "A mod that adds compatibility between Regions Unexplored and Fabric Seasons",
+  "authors": [
+    "KirboSoftware", "Sleepy"
+  ],
+  "contact": {
+    "repo": "https://github.com/KirboSoftware-Mods/SeasonsUnexplored"
+  },
+  "license": "MIT",
+  "icon": "assets/seasonsundiscovered/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.kirbosoftware.seasons_unexplored.SeasonsUnexplored"
+    ]
+  },
+  "mixins": [
+    "seasons_unexplored.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
